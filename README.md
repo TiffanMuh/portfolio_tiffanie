@@ -1,8 +1,10 @@
 # portfolio
 This is my portfolio project
-[Live Deployment](https://portfolio-tiffaniemuh.herokuapp.com/)
+https://portfoliotiffanie.tiffaniemuh.repl.co
 
-![image](https://user-images.githubusercontent.com/102338848/165016945-b733292c-97d0-4966-be12-19eb2c1d45bf.png)
+<img width="1157" alt="Screen Shot 2022-10-18 at 3 50 37 AM" src="https://user-images.githubusercontent.com/102338848/196384359-27fccc93-a906-45b6-9867-4a7c3128dc03.png">
+
+
 
 
 # Technology Used:
